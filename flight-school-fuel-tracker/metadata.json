@@ -1,0 +1,5 @@
+{
+  "name": "Flight School Fuel Tracker",
+  "description": "An application for flight school students and instructors to track and update the fuel levels of airplanes in the fleet. It provides a real-time, visually appealing dashboard of all aircraft fuel statuses.",
+  "requestFramePermissions": []
+}
